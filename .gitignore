@@ -1,0 +1,5 @@
+./src/HelloWorldDotNet/obj/*
+./src/HelloWorldDotNet/bin/*
+./test/HelloWorldDotNetTests/obj/*
+./test/HelloWorldDotNetTests/bin/*
+
